@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitkadav&label=Profile%20views&color=0e75b6&style=flat" alt="ankitkadav" /> </p>
 
-- 🔭 I’m currently working as Intern @UniConverge Technologies Pvt Ltd **Cloud Computing**
+- 🔭 I’m currently working as Intern @UniConverge Technologies Pvt Ltd 
 
 - 🌱 I’m currently learnig **WordPress**
 
@@ -14,10 +14,6 @@
 - 💬 Ask me about **WordPress,DSA and Frontend Development**
 
 - 📫 How to reach me **ankitkadav99gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1sc1JLE8ZwyLxONqrfdafAHn503thPQ9r/view?usp=sharing](https://drive.google.com/file/d/1sc1JLE8ZwyLxONqrfdafAHn503thPQ9r/view?usp=sharing)
-
-- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
