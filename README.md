@@ -22,7 +22,7 @@
 <a href="https://www.kaggle.com/ankitkadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/ankitkadav" height="30" width="40" /></a>
 <a href="https://www.instagram.com/ankit_kadav/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ankit_kadav/?hl=en" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/@ankitkadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@ankitkadav" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/ankit_kadav/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/ankit_kadav/" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Ankit_Kadav/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/ankit_kadav/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
