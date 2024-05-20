@@ -13,11 +13,11 @@
 
 - 💬 Ask me about **WordPress,DSA and Frontend Development**
 
-- 📫 How to reach me **ankitkadav99gmail.com**
+- 📫 How to reach me **ankitkadav99@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/ankit-kadav-b95bb72a6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ankit-kadav-b95bb72a6" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ankit-kadav-b95bb72a6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ankit-kadav-b95bb72a6" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/25106585/ankit-kadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/25106585/ankit-kadav" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/ankitkadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/ankitkadav" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/ankit_kadav/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ankit_kadav/?hl=en" height="30" width="40" /></a>
