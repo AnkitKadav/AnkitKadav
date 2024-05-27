@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **WordPress,DSA and Frontend Development**
 
-- 📫 How to reach me **ankitkadav99gmail.com**
+- 📫 How to reach me **ankitkadav99@gmail.com**
 
 - ⚡ Fun fact **🌟I love learning new tech, solving problems, gaming online, and dancing to the latest hits!**
 
