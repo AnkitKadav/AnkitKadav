@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AnkitKadav](https://github.com/AnkitKadav)
 
-- 💬 Ask me about **HTML,CSS,JavaScript,Python,Java,C++,DSA and Frontend Development**
+- 💬 Ask me about **HTML,CSS,JavaScript,Python,Java,C++,DSA and Web Development**
 
 - 📫 How to reach me **ankitkadav99@gmail.com**
 
