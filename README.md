@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitkadav&label=Profile%20views&color=0e75b6&style=flat" alt="ankitkadav" /> </p>
 
-- 🌱 I’m currently learnig **Salesforce**.
+- 🌱 I’m currently learnig **React**.
 
 - 👨‍💻 All of my projects are available at [https://github.com/AnkitKadav](https://github.com/AnkitKadav)
 
